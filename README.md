@@ -40,6 +40,8 @@ Database Name:Student Management system
 CREATE DATABASE StudentManagementsystem;
 USE StudentManagementsystem;
 
+CODE:-<img width="1536" height="1024" alt="ChatGPT Image Oct 20, 2025, 08_35_53 PM" src="https://github.com/user-attachments/assets/c64293f1-48ed-434a-82d4-cca6ed4c77cd" />
+
 -- Department Table
 CREATE TABLE Department (
     dept_id INT AUTO_INCREMENT PRIMARY KEY,
