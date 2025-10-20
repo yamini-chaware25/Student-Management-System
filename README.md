@@ -86,6 +86,9 @@ CREATE TABLE Enrollment (
     FOREIGN KEY (student_id) REFERENCES Student(student_id),
     FOREIGN KEY (course_id) REFERENCES Course(course_id)
 );
+
+
+
 E-R DIAGRAM
 <img width="1536" height="1024" alt="ChatGPT Image Oct 20, 2025, 08_35_53 PM" src="https://github.com/user-attachments/assets/c64293f1-48ed-434a-82d4-cca6ed4c77cd" />
 
